@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "section:(Trading)",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "Aeronautics",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "section:(IMT)",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "Computer Science",
+      "color": {
+        "a": 1,
+        "rgb": 14054661
+      }
+    },
+    {
+      "query": "Physics",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"200 Medias\"",
+      "color": {
+        "a": 1,
+        "rgb": 10485923
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.7,
+  "nodeSizeMultiplier": 0.862938596491228,
+  "lineSizeMultiplier": 0.519078947368421,
+  "collapse-forces": false,
+  "centerStrength": 0.383771929824561,
+  "repelStrength": 10.7456140350877,
+  "linkStrength": 0.52434456928839,
+  "linkDistance": 124,
+  "scale": 0.4627760254302623,
+  "close": true
+}

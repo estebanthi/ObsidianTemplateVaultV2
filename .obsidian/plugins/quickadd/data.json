@@ -1,0 +1,219 @@
+{
+  "choices": [
+    {
+      "id": "740c6c91-e8e3-45b3-8f93-9a51f4f2d374",
+      "name": "🧠 ZK",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "13b5517e-c807-4fe6-af52-6c1fa8fdeabc",
+          "name": "🌱 Note",
+          "type": "Template",
+          "command": true,
+          "templatePath": "90 Meta/Templates/10 Wiki/Notes/Note.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE:File Name}} - {{DATE:YYYYMMDDhhmmss}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "10 Wiki/11 Wiki Inbox"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "setFileExistsBehavior": true,
+          "fileExistsMode": "Increment the file name"
+        },
+        {
+          "id": "db633193-4633-4dd4-9afa-1ef7ea8a3ab1",
+          "name": "🗺️ MOC",
+          "type": "Template",
+          "command": true,
+          "templatePath": "90 Meta/Templates/10 Wiki/Notes/MOC.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE:File Name}} - {{DATE:YYYYMMDDhhmmss}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "10 Wiki/11 Wiki Inbox"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "setFileExistsBehavior": true,
+          "fileExistsMode": "Increment the file name"
+        }
+      ],
+      "collapsed": false
+    },
+    {
+      "id": "f9251bb3-1768-4142-b553-dea48886d1c9",
+      "name": "✨ Me",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "e12c65f6-a4c8-429d-b338-c58b1b371a47",
+          "name": "⚙️ Workflow",
+          "type": "Template",
+          "command": false,
+          "templatePath": "90 Meta/Templates/20 Me/Workflow.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE:File Name}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "20 Me/Workflows"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "setFileExistsBehavior": true,
+          "fileExistsMode": "Increment the file name"
+        },
+        {
+          "id": "d9fd8973-c0df-49dc-aa19-d7bd2a68293b",
+          "name": "✈️ Travel Log",
+          "type": "Template",
+          "command": false,
+          "templatePath": "90 Meta/Templates/20 Me/Travel.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{DATE:}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "00 Inbox"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "setFileExistsBehavior": true,
+          "fileExistsMode": "Increment the file name"
+        },
+        {
+          "id": "0895c213-c876-4c22-b9c9-0686d33557b9",
+          "name": "🎁 Gift",
+          "type": "Template",
+          "command": false,
+          "templatePath": "90 Meta/Templates/20 Me/Gift.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE:File Name}} - {{DATE:YYYYMMDDhhmmss}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "20 Me/Gifts"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "a1784db9-47b2-40cd-b0a9-a91807baec91",
+          "name": "🎯 Goal",
+          "type": "Template",
+          "command": false,
+          "templatePath": "90 Meta/Templates/20 Me/Goal.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE: File name}} - {{DATE:YYYYMMDDhhmmss}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "20 Me/Goals"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        }
+      ],
+      "collapsed": false
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "90 Meta/Templates",
+  "announceUpdates": true,
+  "version": "1.4.0",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

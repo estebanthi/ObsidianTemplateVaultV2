@@ -1,0 +1,16 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "date": "date",
+    "related-mocs": "multitext",
+    "references": "multitext",
+    "status": "multitext",
+    "consumed": "checkbox",
+    "to-reconsume": "checkbox",
+    "priority": "number",
+    "rating": "number",
+    "favorite": "checkbox"
+  }
+}

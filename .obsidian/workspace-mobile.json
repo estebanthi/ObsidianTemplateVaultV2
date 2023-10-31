@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "258897e4acd48811",
+    "type": "split",
+    "children": [
+      {
+        "id": "29fa40503722e4a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5118f0d17ffedefa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Inbox/RN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c22749ec524616a7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5250d79bd91a91c1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "936ac9e9d4dde445",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fe0a8a8b8b8d6166",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "042952b72df2ee43",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "e4fde1cc61a6e329",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "15a542a6af789fc0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bb991404b382979e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "00 Inbox/RN.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0cd825b5eb45028b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "00 Inbox/RN.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "5118f0d17ffedefa",
+  "lastOpenFiles": [
+    "20 Me/22 Action/Tasks/_INDEX.md",
+    "Home.md",
+    "00 Inbox/RN.md",
+    "10 Wiki/Learning Center.md",
+    "000 Inbox/Rn.md",
+    "600 Periodic/610 Daily/2023/Habit Tracker.md",
+    "006 Action/1 Tasks/1 Tasks.md",
+    "600 Periodic/610 Daily/610 Daily.md",
+    "006 Action/006 Action.md",
+    "001 Templates/005 Workflows/Workflow.md"
+  ]
+}

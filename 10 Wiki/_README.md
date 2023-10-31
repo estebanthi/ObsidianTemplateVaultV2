@@ -28,4 +28,15 @@ What I call a "course" is just a MOC where you manually group notes. Eventually,
 >An academic course about mathematics may include many topics such as algebra, probabilities, etc... I can use a "Mathematics" MOC to prepare for my exams but eventually my exams won't include all the topics related to mathematics in my vault. So I can use a "course" note such as [[10 Wiki/15 Courses/Sample Course/_INDEX|_INDEX]] to manually index the topics I have to study for my mathematics exams.
 
 
+## Identifiers
+I include timestamps or any other identifiers in the names of my notes. When your vault will grow, it'll probably have many notes with the same file name. Having identifiers in the files names is a way to deal with this.
+
+So, the file names I use are formatted this way: `{{name}} - {{identifier}}`. For example: [[Sample Note - 20231031032802]].
+
+For wiki notes I use timestamps, for books I use ISBN, for movies I use publication year, etc...
+
+This process is automated with templates.
+
+
+
 [[README|<- BACK]]

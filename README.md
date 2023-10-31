@@ -13,3 +13,4 @@ Now, you can start exploring this vault!
 - [[10 Wiki/_README|Know more about the '10 Wiki' section]]
 - [[20 Me/_README|Know more about the '20 Me' section]]
 - [[Plugins & Settings]]
+- [[90 Meta/Templates/_README|Templates]]

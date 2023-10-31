@@ -1,0 +1,29 @@
+{
+  "dateHighlightedFormat": "yyyy-MM-dd HH:mm:ss",
+  "dateSavedFormat": "yyyy-MM-dd HH:mm:ss",
+  "apiKey": "29386c39-d758-4dfd-809a-cbd31fb6c370",
+  "filter": "ALL",
+  "syncAt": "2023-05-16T18:55:46",
+  "customQuery": "",
+  "template": "---\nid: \"{{{id}}}\"\ntitle: \"{{{title}}}\"\n{{#author}}\nauthor: \"{{{author}}}\"\n{{/author}}\n{{#labels.length}}\ntags:\n{{#labels}} - \"{{{name}}}\"\n{{/labels}}\n{{/labels.length}}\ndate_saved: \"{{{dateSaved}}}\"\n{{#datePublished}}\ndate_published: \"{{{datePublished}}}\"\n{{/datePublished}}\n---\n\n# {{{title}}}\n#Omnivore\n\n[Read on Omnivore]({{{omnivoreUrl}}})\n[Read Original]({{{originalUrl}}})\n\n{{#highlights.length}}\n## Highlights\n\n{{#highlights}}\n> {{{text}}} [⤴️]({{{highlightUrl}}}) {{#labels}} #{{name}} {{/labels}}\n{{#note}}\n\n{{{note}}}\n{{/note}}\n\n{{/highlights}}\n{{/highlights.length}}\n\n{{content}}",
+  "highlightOrder": "LOCATION",
+  "syncing": false,
+  "folder": "Omnivore/{{{date}}}",
+  "folderDateFormat": "yyyy-MM-dd",
+  "endpoint": "https://api-prod.omnivore.app/api/graphql",
+  "filename": "{{{title}}}",
+  "filenameDateFormat": "yyyy-MM-dd",
+  "attachmentFolder": "Omnivore/attachments",
+  "version": "1.6.1",
+  "isSingleFile": false,
+  "frequency": 0,
+  "intervalId": 0,
+  "frontMatterVariables": [
+    "title",
+    "author",
+    "tags",
+    "date_saved",
+    "date_published"
+  ],
+  "frontMatterTemplate": ""
+}

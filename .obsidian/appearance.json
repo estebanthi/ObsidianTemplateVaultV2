@@ -1,0 +1,15 @@
+{
+  "baseFontSize": 15,
+  "theme": "obsidian",
+  "translucency": true,
+  "cssTheme": "Atom",
+  "enabledCssSnippets": [
+    "banner",
+    "supercharged-links-gen",
+    "dataview",
+    "dataview-lines",
+    "dashboard",
+    "progress-bar"
+  ],
+  "accentColor": ""
+}

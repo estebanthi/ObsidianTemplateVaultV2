@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "258897e4acd48811",
+    "type": "split",
+    "children": [
+      {
+        "id": "5118f0d17ffedefa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "006 Action/1 Tasks/1 Tasks.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fcb935a1227e489",
+    "type": "split",
+    "children": [
+      {
+        "id": "a31fa184cff33dfc",
+        "type": "tabs",
+        "dimension": 49.8447204968944,
+        "children": [
+          {
+            "id": "c3c9cd0d2b3ef4b6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "3229d4a4a7fc1271",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:Lagging",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e6d93c4348cc5e3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "fcdf998fb05e94b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "deea18ca2a5c88b9",
+        "type": "tabs",
+        "dimension": 50.1552795031056,
+        "children": [
+          {
+            "id": "03a43d52785fd8ec",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332
+  },
+  "right": {
+    "id": "36d42b13ffa027f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d3ab8f44bf974c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cb0aeffc3ad8576",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "006 Action/1 Tasks/1 Tasks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f88d70a572e303e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "006 Action/1 Tasks/1 Tasks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82b5439872931143",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "032dd2166964eeb8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "d8a0fc3e8e84ea04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77ae245ba8016eec",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "006 Action/1 Tasks/1 Tasks.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6401763338614792,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5,
+    "collapsed": true
+  },
+  "active": "fcdf998fb05e94b5",
+  "lastOpenFiles": [
+    "Home.md",
+    "600 Periodic/610 Daily/610 Daily.md",
+    "006 Action/1 Tasks/1 Tasks.md",
+    "006 Action/006 Action.md",
+    "001 Templates/005 Workflows/Workflow.md",
+    "005 Workflows/Evergreens.md",
+    "006 Action/2 Projects/Gain audience on Medium.md",
+    "001 Templates/600 Periodic/610 Daily.md",
+    "000 Inbox/2022-10-07.md",
+    "001 Templates/Daily Note.md"
+  ]
+}

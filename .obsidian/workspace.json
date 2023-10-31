@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "258897e4acd48811",
+    "type": "split",
+    "children": [
+      {
+        "id": "37640cb2ae930393",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18facc1035115fdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fcb935a1227e489",
+    "type": "split",
+    "children": [
+      {
+        "id": "a31fa184cff33dfc",
+        "type": "tabs",
+        "dimension": 69.56106870229007,
+        "children": [
+          {
+            "id": "3229d4a4a7fc1271",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:dashboard",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e6d93c4348cc5e3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b79f781702cfa1b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e220d57d11dbada1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "8ae14c4792447c8e",
+        "type": "tabs",
+        "dimension": 30.438931297709924,
+        "children": [
+          {
+            "id": "157a2cd2df2ecf74",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 400.5
+  },
+  "right": {
+    "id": "36d42b13ffa027f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d3ab8f44bf974c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cb0aeffc3ad8576",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f88d70a572e303e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82b5439872931143",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "032dd2166964eeb8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5d5b42e9321e41e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "periodic-notes:Open this week": false
+    }
+  },
+  "active": "18facc1035115fdb",
+  "lastOpenFiles": [
+    "Home.md",
+    "90 Meta/Plugins & Settings.md",
+    "90 Meta/Vault Wiki.md",
+    "README.md",
+    "10 Wiki/_README.md",
+    "90 Meta/Templates/_README.md",
+    "10 Wiki/ZK Index.md",
+    "10 Wiki/Featured.md",
+    "10 Wiki/Learning Center.md",
+    "10 Wiki/12 Notes/Note without MOC - 20231031060130.md",
+    "10 Wiki/13 MOCs/Sample MOC - 20231031033032.md",
+    "10 Wiki/12 Notes/Sample Note - 20231031032802.md",
+    "20 Me/_README.md",
+    "10 Wiki/14 References/_README.md",
+    "20 Me/Workflows/My Obsidian Workflow.md",
+    "20 Me/Workflows/_INDEX.md",
+    "90 Meta/Templates/20 Me/Workflow.md",
+    "90 Meta/Templates/20 Me/Travel.md",
+    "90 Meta/Templates/20 Me/Weekly Backup.md",
+    "90 Meta/Templates/20 Me/Journal.md",
+    "90 Meta/Templates/20 Me/Goal.md",
+    "90 Meta/Templates/20 Me/Gift.md",
+    "90 Meta/Templates/20 Me/Reviews/Weekly Review.md",
+    "90 Meta/Templates/20 Me/Reviews/Monthly Review.md",
+    "10 Wiki/14 References/_Media Vaults/Movies and TV Shows.md",
+    "10 Wiki/14 References/_Media Vaults/Books.md",
+    "10 Wiki/15 Courses/Sample Course/Untitled",
+    "10 Wiki/15 Courses/Sample Course",
+    "90 Meta/vault_favicon.svg",
+    "90 Meta/Attachments/Pasted/3barplay_example1.png",
+    "90 Meta/Attachments/Pasted/E8306_658547.jpg",
+    "20 Me/Journal",
+    "20 Me/Gifts",
+    "20 Me/Goals",
+    "10 Wiki/15 Courses/IMT NE/M2/TSIO",
+    "10 Wiki/15 Courses/IMT NE/M1",
+    "10 Wiki/15 Courses/IMT NE/M2",
+    "20 Me/Projects/Le Polak",
+    "10 Wiki/14 References/Highlights/Inbox",
+    "90 Meta/Attachments/Pasted/Screenshot from 2023-04-24 21-19-59.png",
+    "90 Meta/Attachments/Pasted/Pasted image 20230507130030.png",
+    "10 Wiki/15 Courses/IMT NE/M1/5g/MIMO/diversity multiple.png",
+    "90 Meta/Attachments/Pasted/Pasted image 20230322154344.png",
+    "90 Meta/Attachments/Pasted/Pasted image 20230322154333.png",
+    "90 Meta/Attachments/Pasted/Pasted Image 20230314085617_332.png",
+    "90 Meta/Attachments/Pasted/Pasted Image 20230314085602_320.png"
+  ]
+}

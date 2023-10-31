@@ -1,0 +1,15 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "spellcheck": true,
+  "spellcheckLanguages": null,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 Inbox",
+  "attachmentFolderPath": "90 Meta/Attachments/Pasted",
+  "showUnsupportedFiles": true,
+  "vimMode": true,
+  "showInlineTitle": false
+}

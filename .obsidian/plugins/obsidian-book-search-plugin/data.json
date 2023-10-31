@@ -1,0 +1,13 @@
+{
+  "folder": "10 Wiki/14 References/Books/Inbox",
+  "fileNameFormat": "{{title}} - {{isbn10}}",
+  "frontmatter": "",
+  "content": "",
+  "useDefaultFrontmatter": true,
+  "defaultFrontmatterKeyType": "Camel Case",
+  "templateFile": "90 Meta/Templates/10 Wiki/References/Book Reference.md",
+  "serviceProvider": "google",
+  "naverClientId": "",
+  "naverClientSecret": "",
+  "localePreference": "default"
+}
