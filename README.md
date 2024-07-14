@@ -9,6 +9,9 @@ This template vault is free, but if you'd like to reward me for the time spent d
 >[!WARNING]
 >Please note that I'm not a native English speaker, so I apologize in advance for any linguistic errors in my explanations.
 
+> [!IMPORTANT]  
+> By default, VIM mode is enabled in this vault. I recommend changing this if you don't know VIM. Also, some keybindings may be strange (e.g. I rarely use the Shift key so I used it for a lot of keybindings, which could be confusing for you if you try to type capital letters), I recommend having a look at the keybindings in the settings.
+
 Now, you can start exploring this vault!
 - [[10 Wiki/_README|Know more about the '10 Wiki' section]]
 - [[20 Me/_README|Know more about the '20 Me' section]]
